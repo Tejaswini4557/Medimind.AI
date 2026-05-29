@@ -18,7 +18,7 @@ AI-powered healthcare assistant web application.
 - Vercel
 
 ## Live Demo
-PASTE YOUR VERCEL LINK
+medimind-ai-umber.vercel.app
 
 ## GitHub Repository
 PASTE YOUR GITHUB LINK
